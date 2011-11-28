@@ -1,0 +1,9 @@
+iOS Phonegap plugin for ZEDOAdTag ads platform
+The platform can be obtained from here:
+http://www.zedo.com/iphonetag/
+
+Current plugin was tested using this version: http://www.zedo.com/iphonetag/ZEDOAdTagDist20110930.zip
+Each version contains a pdf file under the doc folder, 
+which explains how to integrate it into your project step by step.
+
+Note, the latest .a (lib) is for iOS version 4.3.5 but was tested and works well on iOS 5 as well
